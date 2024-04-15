@@ -3,21 +3,28 @@
 # <Repository Title>
 
 ## Description
-This is the code repository for <program/library name>, a <program/library> for (description of what it does).
+Collection of real-world examples of UMGPT, Maizey and other AI prompts from the University of Michigan. All contributions are welcome!
 
 
 
 ## Quick Start Guide
-<Quick compile/run instructions>
+* Navigate to the directory of your choice. Each directory represents a topic or category.
+* Copy the code under the Template section, and paste it into your AI prompt (e.g. [UMGPT](https://umgpt.umich.edu/).
 
+
+## Contributing
+* Please contribute your examples to this repo, for the benefit of everyone at the University of Michigan and Michigan Medicine. Chances are, someone maybe trying to solve the same problem, and your prompt may spark new ideas!
+* To contribute, simply make a copy of the template and edit it. Then, either email us, or send us a pull request. Be sure to specifiy the folder where your example should go.
 
 
 ## Documentation
-<Links to manual, wiki, full documentation, etc.>
-
+* Each individual file has its own documentation and examples.
+* For other U-M Generative AI documentation, visit the [GenAI site](https://genai.umich.edu/) or the [Depression Center's knowledge base](https://michmed.org/efdc-kb).
 
 ## Additional Resources
-<Links to study website, related projects, etc.>
+* Depression Center - [Tips for Using U-M Generative AI Tools](https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=10725)
+* U-M ITS - [Prompt Literacy in Academics](https://genai.umich.edu/resources/prompt-literacy)
+* @devisasari - [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store)
 
 
 
