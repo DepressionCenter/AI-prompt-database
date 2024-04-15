@@ -10,6 +10,9 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
 ## Quick Start Guide
 * Navigate to the directory of your choice. Each directory represents a topic or category.
 * Copy the code under the Template section, and paste it into your AI prompt (e.g. [UMGPT](https://umgpt.umich.edu/).
+### Current Categories
+[Business](/business/)  |  [Just for Fun](/just-for-fun/)
+
 
 
 ## Contributing
