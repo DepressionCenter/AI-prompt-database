@@ -14,7 +14,7 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
 
 ## Contributing
 * Please contribute your examples to this repo, for the benefit of everyone at the University of Michigan and Michigan Medicine. Chances are, someone maybe trying to solve the same problem, and your prompt may spark new ideas!
-* To contribute, simply make a copy of the template and edit it. Then, either email us, or send us a pull request. Be sure to specifiy the folder where your example should go.
+* To contribute, simply make a copy of the [template](_template.md) and edit it. Then, either [email us](#contact), or send us a pull request. Be sure to specifiy the folder where your example should go.
 
 
 ## Documentation
@@ -29,7 +29,7 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
 
 
 ## About the Team
-< 1-2 paragraphs about your core, study team, class or project. >
+The Mobile Technologies Core provides investigators across the University of Michigan the support and guidance needed to utilize mobile technologies and digital mental health measures in their studies. Experienced faculty and staff offer hands-on consultative services to researchers throughout the University – regardless of specialty or research focus.
 
 
 
