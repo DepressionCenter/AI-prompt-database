@@ -17,12 +17,12 @@ Enter a short description here
 
 ### Template
 **For: GPT | DALLE | LLAMA | MAIZEY | OTHER**  <br />
-**Type:**
-<code>
+**Prompt:**
+<pre><code>
 Prompt goes here.
 Give user a place to enter their own info with:
 <var>[INPUT]</var>.
-</code>
+</code></pre>
 <br />
 
 
