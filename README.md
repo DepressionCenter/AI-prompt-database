@@ -17,21 +17,21 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
     <tr>
       <td width="32%">
         <h4><a href="/business/">Business</a></h4>
-        <p>Prompts to help with productivity and business functions, such as gathering vendor info.</p>
+        <p>Prompts to help with productivity and business functions, such as gathering vendor info, providing feedback on SBARs, etc.</p>
+      </td>
+      <td width="32%">
+        <h4><a href="/clinical/">Clinical</a></h4>
+        <p>Prompts that could be useful to clinical staff, such as translating, writing patient educaiton materials, or summarizing research.</p>
       </td>
       <td width="32%">
         <h4><a href="/just-for-fun/">Just for Fun!</a></h4>
         <p>Fun prompts to make those coffee-filled Monday mornings feel like a Friday!</p>
       </td>
-      <td width="32%">
-        <h4><a href="#contact">Add your own!</a></h4>
-        <p>Contact us to add more categories and prompts, or send us a pull request.</p>
-      </td>
     </tr>
     <tr>
       <td width="32%">
-        <h4><a href="#"></a></h4>
-        <p></p>
+        <h4><a href="#contact">Add your own!</a></h4>
+        <p>Contact us to add more categories and prompts, or send us a pull request.</p>
       </td>
       <td width="32%">
         <h4><a href="#"></a></h4>
