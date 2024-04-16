@@ -51,6 +51,8 @@ Make the following web page more visually appealing, looking more like a page th
 &lt;/body&gt;  
 &lt;/html&gt;  
 </kbd><br /><br />
+![image](https://github.com/DepressionCenter/AI-prompt-database/assets/42566461/8fe6a5c0-be45-4898-98bd-15419f35a0dc)
+<br /><br />
 <samp>
 &lt;!DOCTYPE html&gt;  
 &lt;html lang=&quot;en&quot;&gt;  
@@ -123,6 +125,11 @@ Make the following web page more visually appealing, looking more like a page th
     &lt;/div&gt;  
 &lt;/body&gt;  
 &lt;/html&gt;  
+<br /><br />
+![image](https://github.com/DepressionCenter/AI-prompt-database/assets/42566461/c24965ee-905f-4ab8-bbcf-bde74f7745d2)  
+
+ 
+
 </samp><br /><br />
 
 ----
