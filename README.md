@@ -9,7 +9,7 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
 
 ## Quick Start Guide
 * Navigate to the directory of your choice. Each directory represents a topic or category.
-* Copy the code under the Template section, and paste it into your AI prompt (e.g. [UMGPT](https://umgpt.umich.edu/).
+* Copy the code under the Template section, and paste it into your AI prompt ( e.g. [UMGPT](https://umgpt.umich.edu/) ).
 ### Current Categories
 [Business](/business/)  |  [Just for Fun](/just-for-fun/)
 
@@ -28,6 +28,7 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
 * Depression Center - [Tips for Using U-M Generative AI Tools](https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=10725)
 * U-M ITS - [Prompt Literacy in Academics](https://genai.umich.edu/resources/prompt-literacy)
 * @devisasari - [Awesome GPT Store](https://github.com/devisasari/awesome-gpt-store)
+* Anthropic - [Prompt Library](https://docs.anthropic.com/claude/prompt-library)
 
 
 
