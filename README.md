@@ -9,9 +9,42 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
 
 ## Quick Start Guide
 * Navigate to the directory of your choice. Each directory represents a topic or category.
-* Copy the code under the Template section, and paste it into your AI prompt ( e.g. [UMGPT](https://umgpt.umich.edu/) ).
-### Current Categories
-[Business](/business/)  |  [Just for Fun](/just-for-fun/)
+* Copy the code under the Template section, and paste it into your AI prompt ( e.g. [UMGPT](https://umgpt.umich.edu/) ).  
+
+### Prompt Categories
+<table border="0" width="98%" style="width: 98%;">
+  <tbody>
+    <tr>
+      <td width="32%">
+        <h4><a href="/business/">Business</a></h4>
+        <p>Prompts to help with productivity and business functions, such as gathering vendor info.</p>
+      </td>
+      <td width="32%">
+        <h4><a href="/just-for-fun/">Just for Fun!</a></h4>
+        <p>Fun prompts to make those coffee-filled Monday mornings feel like a Friday!</p>
+      </td>
+      <td width="32%">
+        <h4><a href="#contact">Add your own!</a></h4>
+        <p>Contact us to add more categories and prompts, or send us a pull request.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="32%">
+        <h4><a href="#"></a></h4>
+        <p></p>
+      </td>
+      <td width="32%">
+        <h4><a href="#"></a></h4>
+        <p></p>
+      </td>
+      <td width="32%">
+        <h4><a href="#"></a></h4>
+        <p></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br />
 
 
 
