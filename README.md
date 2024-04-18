@@ -30,12 +30,26 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
     </tr>
     <tr>
       <td width="32%">
+        <h4><a href="/research/">Research</a></h4>
+        <p>Helpful prompts for study coordinators and principal investigators, such as generating study consents that are inclusive and equitable.</p>
+      </td>
+      <td width="32%">
         <h4><a href="web-development">Web Development</a></h4>
         <p>Painless web development! Prompts to save you time when creating and formatting web pages, such as applying U-M templates.</p>
       </td>
       <td width="32%">
+        <h4><a href="#"></a></h4>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="32%">
         <h4><a href="#contact">Add your own!</a></h4>
         <p>Contact us to add more categories and prompts, or send us a pull request.</p>
+      </td>
+      <td width="32%">
+        <h4><a href="#"></a></h4>
+        <p></p>
       </td>
       <td width="32%">
         <h4><a href="#"></a></h4>
