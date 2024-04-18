@@ -18,20 +18,20 @@ Note that the suggestions given will be very general. Do not use the example tha
 
 ### Template
 
-**Focus on DEI practices:**  <br />
+#### **Focus on DEI practices:**
 **For: GPT**  <br />
 **Prompt:**
-<pre><code>
+<pre><code>  
 How can I make the following study consent more equitable, implementing DEI practices?  
 <var>[INPUT]</var>.  
 </code></pre>
 <br />
 
 
-**Focus on compliance with equal opportunity and privacy laws and guidelines:**  <br />
+#### **Focus on compliance with equal opportunity and privacy laws and guidelines:** 
 **For: GPT**  <br />
 **Prompt:**
-<pre><code>
+<pre><code>  
 How can I make the following research study document more equitable, implementing DEI practices while ensuring compliance with 45 CFR 46.116, GDPR, ADA, WCAG, the Universal Declaration of Human Rights, and the U.S. Constitution as amended?  
 <var>[INPUT]</var>.  
 </code></pre>
@@ -41,33 +41,24 @@ How can I make the following research study document more equitable, implementin
 
 ### Examples
 
-Provide DEI suggestions for an example IRB application / study consent (source: https://www.montclair.edu/institutional-review-board/applications-forms-and-templates/irb-sample-applications/)<br /><br />
-<kbd>
+#### Provide DEI suggestions for an example IRB application / study consent
+(source: https://www.montclair.edu/institutional-review-board/applications-forms-and-templates/irb-sample-applications/)<br /><br />
+<kbd><br />
 How can I make the following study consent more equitable, implementing DEI practices?
 
 We are asking you to take part in a research study being done by Dolores Umbridge, a student at Montclair State University. Being in this study is optional.
 
- 
-
 If you choose to be in the study, you will complete a survey. This survey will help us learn more about proper usage of templates.  You were selected to participate because of your affiliation to Montclair State University and asked to participate in effort to improve the IRB submission process. The survey will take about 15 minutes to complete.
-
- 
 
 You can skip questions that you do not want to answer or stop the survey at any time. The survey is anonymous, and no one will be able to link your answers back to you.
 
- 
-
 You will remain anonymous. Risks of participating in this study are feeling possible fatigue or boredom while answering survey questions.  You and others may benefit from this study if the outcome speeds up the IRB submission and approval process.  To compensate you for the time you spend in this study, you will receive a $10.00 Amazon gift card.  A link to receive this compensation will appear at the end of the survey.
-
- 
 
 We strongly advise that you do not use an employer issued electronic device, laptop, phone or WIFI to respond to this survey, as many employers monitor use of all devices.
 
- 
-
 Questions? Please contact Rubieus Hagrid at ubhagrid@hogwarts.edu. If you have questions or concerns about your rights as a research participant, you can call the MSU Institutional Review Board at 000-000-0000 or email xxxxxxxx@montclair.edu.
-</kbd><br /><br />
-<samp>
+<br /></kbd><br /><br />
+<samp><br />
 To enhance the equity of the study consent form and implement Diversity, Equity, and Inclusion (DEI) practices, consider the following suggestions:
 
 1. Inclusive Language:
@@ -122,12 +113,12 @@ This research has received Montclair State University IRB approval (Your IRB # h
 ---
 
 Remember to adapt and personalize the content as necessary, ensuring it aligns with the specifics of your research study and the needs and characteristics of the potential participant population.
-</samp><br /><br />
+<br /></samp><br /><br />
 
 
-Provide DEI and equal opportunity compliance feedback for an example study recruitment flyer:<br />
+#### Provide DEI and equal opportunity compliance feedback for an example study recruitment flyer:
 (Source: https://research-compliance.umich.edu/informed-consent-guidelines)<br /><br />
-<kbd>
+<kbd><br />
 How can I make the following research study document more equitable, implementing DEI practices while ensuring compliance with 45 CFR 46.116, GDPR, ADA, WCAG, the Universal Declaration of Human Rights, and the U.S. Constitution as amended?
 
 The University of Michigan, [insert department and/or division] seeks [insert as appropriate: Women, Men, Children, Adolescents, etc.], ages [x] to [y] to participate in a [insert type of activity: survey, interview, etc.]
@@ -148,17 +139,8 @@ Principal Investigator:
 Faculty Advisor [if PI is a student]: 
 
 
-</kbd><br /><br />
-<samp>
-Output goes here
-</samp><br /><br />
-
-
-Enter description of the example here: (or delete this line)<br />
-<kbd>
-Example prompt goes here.
-</kbd><br /><br />
-<samp>
+<br /></kbd><br /><br />
+<samp><br />
 To create an equitable research study document that complies with the legal and ethical standards you've mentioned, follow these key guidelines:
 
 1. **45 CFR 46.116 (Common Rule)**: Ensure clear and concise information on the research purpose, procedures, risks, and benefits. Obtain informed consent, provide contact details for inquiries about participants' rights, and ensure voluntary participation.
@@ -209,7 +191,7 @@ Remember to:
 - Use clear, jargon-free language that is inclusive and easily understood by all potential participants.
 
 Ensure that the material is reviewed by your compliance department or legal counsel to verify that it meets all necessary regulations and standards.
-</samp><br /><br />
+<br /></samp><br /><br />
 
 
 ----
