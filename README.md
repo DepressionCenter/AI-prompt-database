@@ -24,11 +24,15 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
         <p>Prompts that could be useful to clinical staff, such as translating, writing patient educaiton materials, or summarizing research.</p>
       </td>
       <td width="32%">
-        <h4><a href="/just-for-fun/">Just for Fun!</a></h4>
-        <p>Fun prompts to make those coffee-filled Monday mornings feel like a Friday!</p>
+        <h4><a href="/education/">Education</a></h4>
+        <p>If you teach or create educational materials, these prompts are for you!</p>
       </td>
     </tr>
     <tr>
+      <td width="32%">
+        <h4><a href="/just-for-fun/">Just for Fun!</a></h4>
+        <p>Fun prompts to make those coffee-filled Monday mornings feel more like a Friday!</p>
+      </td>
       <td width="32%">
         <h4><a href="/research/">Research</a></h4>
         <p>Helpful prompts for study coordinators and principal investigators, such as generating study consents that are inclusive and equitable.</p>
@@ -36,10 +40,6 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
       <td width="32%">
         <h4><a href="web-development">Web Development</a></h4>
         <p>Painless web development! Prompts to save you time when creating and formatting web pages, such as applying U-M templates.</p>
-      </td>
-      <td width="32%">
-        <h4><a href="#"></a></h4>
-        <p></p>
       </td>
     </tr>
     <tr>
