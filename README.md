@@ -9,7 +9,7 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
 
 ## Quick Start Guide
 * Navigate to the directory of your choice. Each directory represents a topic or category.
-* Copy the code under the Template section, and paste it into your AI prompt ( e.g. [UMGPT](https://umgpt.umich.edu/) ).  
+* Copy the code under the Template section, and paste it into your AI prompt ( e.g. <a href="https://umgpt.umich.edu/" target="_blank"><strong>UMGPT</strong></a> ).  
 
 ### Prompt Categories
 <table border="0" width="98%" style="width: 98%;">
