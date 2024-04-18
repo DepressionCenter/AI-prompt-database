@@ -99,7 +99,7 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 
 #### This work is based in part on the following projects, libraries and/or studies:
-+ None
++ None, unless noted in each specific example.
 
 
 
