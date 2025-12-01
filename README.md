@@ -24,14 +24,14 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
         <p>Prompts that could be useful to clinical staff, such as translating, writing patient educaiton materials, or summarizing research.</p>
       </td>
       <td width="32%">
-        <h4><a href="/education/">Education</a></h4>
-        <p>If you teach or create educational materials, these prompts are for you!</p>
+        <h4><a href="/data-analysis/">Data Analysis</a></h4>
+        <p>Tidbits for common data analysis and dashboard development tasks. Prompt, code, and relax!</p>
       </td>
     </tr>
     <tr>
       <td width="32%">
-        <h4><a href="/just-for-fun/">Just for Fun!</a></h4>
-        <p>Fun prompts to make those coffee-filled Monday mornings feel more like a Friday!</p>
+        <h4><a href="/education/">Education</a></h4>
+        <p>If you teach or create educational materials, these prompts are for you!</p>
       </td>
       <td width="32%">
         <h4><a href="/research/">Research</a></h4>
@@ -44,12 +44,12 @@ Collection of real-world examples of UMGPT, Maizey and other AI prompts from the
     </tr>
     <tr>
       <td width="32%">
-        <h4><a href="#contact">Add your own!</a></h4>
-        <p>Contact us to add more categories and prompts, or send us a pull request.</p>
+        <h4><a href="/just-for-fun/">Just for Fun!</a></h4>
+        <p>Fun prompts to make those coffee-filled Monday mornings feel more like a Friday!</p>
       </td>
       <td width="32%">
-        <h4><a href="#"></a></h4>
-        <p></p>
+        <h4><a href="#contact">Add your own!</a></h4>
+        <p>Contact us to add more categories and prompts, or send us a pull request.</p>
       </td>
       <td width="32%">
         <h4><a href="#"></a></h4>
