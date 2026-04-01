@@ -334,4 +334,4 @@ Use the `lsqlite3` binding for SQLite. Use plain Lua `io` for CSV output. Wrap a
 
 
 
-Copyright © 2024 The Regents of the University of Michigan
+Copyright © 2024-2026 The Regents of the University of Michigan
