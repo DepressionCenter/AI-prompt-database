@@ -1,9 +1,9 @@
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# <Repository Title>
+# AI Prompt Database
 
 ## Description
-Collection of real-world examples of UMGPT, Maizey and other AI prompts from the University of Michigan. All contributions are welcome!
+Collection of real-world examples of UMGPT, Maizey, ChatGPT, Gemini, Claude and other AI prompts from the University of Michigan. All contributions are welcome!
 
 
 
@@ -105,7 +105,7 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 ## License
 ### Copyright Notice
-Copyright © 2023-2025 The Regents of the University of Michigan
+Copyright © 2023-2026 The Regents of the University of Michigan
 
 
 ### Software and Library License
@@ -129,9 +129,8 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 ## Citation
 If you find this repository, code or paper useful for your research, please cite it.
 * v0: [https://doi.org/10.6084/m9.figshare.25669170](https://doi.org/10.6084/m9.figshare.25669170)
-* v1.0: [![DOI](https://zenodo.org/badge/787061333.svg)](https://doi.org/10.5281/zenodo.15242741)
-* v1.1: [![DOI](https://zenodo.org/badge/787061333.svg)](https://doi.org/10.5281/zenodo.15242741)
+* v1.0+: [https://doi.org/10.5281/zenodo.15242741](https://doi.org/10.5281/zenodo.15242741)
 
 ----
 
-Copyright © 2023 The Regents of the University of Michigan
+Copyright © 2023-2026 The Regents of the University of Michigan
