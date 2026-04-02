@@ -1,6 +1,6 @@
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# AI Prompt Database
+# AI Prompt Database™
 
 ## Description
 Collection of real-world examples of UMGPT, Maizey, ChatGPT, Gemini, Claude and other AI prompts from the University of Michigan. All contributions are welcome!
@@ -105,6 +105,7 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 ## License
 ### Copyright Notice
+AI Prompt Database™, AI-prompt-database™, and AI Prompts Database™ are a trademark of The Regents of the University of Michigan.
 Copyright © 2023-2026 The Regents of the University of Michigan
 
 
