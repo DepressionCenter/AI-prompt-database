@@ -3,7 +3,9 @@
 # AI Prompt Database™
 
 ## Description
-Collection of real-world examples of UMGPT, Maizey, ChatGPT, Gemini, Claude and other AI prompts from the University of Michigan. All contributions are welcome!
+AI Prompt Database™ is an open-source library of reusable generative AI prompt examples for UMGPT, Maizey, ChatGPT, Gemini, Claude, and other assistants. It organizes practical prompts for research, clinical work, education, data analysis, business productivity, and web development.
+
+Browse a category, copy a prompt template, and adapt it to your task. Researchers, educators, clinicians, analysts, and developers can contribute tested examples so others can reproduce useful AI workflows.
 
 
 
