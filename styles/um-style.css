@@ -1,0 +1,162 @@
+/*
+This file is part of EFDC-Repo-Template.
+um-style.css: a reusable CSS stylesheet for University of Michigan branding and styling.
+Author(s): Gabriel Mongefranco, Sarah Acree.
+
+Summary: A reusable CSS stylesheet for University of Michigan branding and styling,
+         derived from the Eisenberg Family Depression Center's Knowledge Base styles.
+         It provides a consistent look and feel for web applications, including color schemes,
+         typography, and UI components. See https://github.com/DepressionCenter/EFDC-TDX-KB/
+         and https://github.com/DepressionCenter/EFDC-Repo-Template/.
+Notes: See README file for documentation and full license information.
+
+Copyright © 2023-2026 The Regents of the University of Michigan
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along
+with this program. If not, see https://www.gnu.org/licenses/.
+*/
+:root {
+  --um-background: #feffff;
+  --um-white: #feffff;
+  --um-text: #00274c;
+  --um-dark-blue: #00274c;
+  --um-medium-blue: #174992;
+  --um-accent-blue: #174492;
+  --um-maize: #ffcb05;
+  --um-action-hover: #75988d;
+  --um-dark-grey: #373d40;
+}
+
+/* -----------Page Header----------- */
+body {
+  background-color: var(--um-background);  /* U-M KB page background */
+  color: var(--um-text);             /* Default text color */
+}
+
+/* Header styling for document title */
+h1, h2, h3, h4, h5 {
+  color: var(--um-dark-blue);             /* U-M blue for headings */
+}
+
+/* -----------Links----------- */
+a {
+  color: var(--um-dark-blue);
+  text-decoration: underline;
+  transition: all 0.2s;
+}
+a:hover, a:focus {
+  color: var(--um-maize);             /* Maize on hover */
+  background-color: var(--um-dark-blue);  /* Good contrast for maize */
+  text-decoration: underline;
+  outline: 2px solid var(--um-maize); /* visible for keyboard users */
+}
+
+/* -----------Navigation----------- */
+/* Suppose nav is styled as .navbar or .toc */
+.navbar, .toc {
+  background-color: var(--um-medium-blue);
+  border-top: 0px solid;
+  border-bottom: 0px solid;
+}
+/* Navigation links */
+.navbar a, .toc a {
+  color: var(--um-white);
+}
+.navbar a.selected, .toc a.selected {
+  border-bottom: 2px solid var(--um-accent-blue);
+}
+.navbar a:hover, .toc a:hover {
+  border-bottom: 2px solid var(--um-maize);
+}
+
+/* -----------Buttons----------- */
+.btn, button, input[type="button"], input[type="submit"] {
+  font-weight: bold;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+/* Primary Buttons */
+.btn-primary, .btn-primary:visited {
+  background-color: var(--um-maize);
+  color: var(--um-dark-blue);
+}
+.btn-primary:hover, .btn-primary:focus {
+  background-color: var(--um-white);
+  color: var(--um-dark-blue);
+  border: 2px solid var(--um-maize);
+}
+
+/* Secondary Buttons */
+.btn-secondary, .btn-secondary:visited {
+  background-color: var(--um-accent-blue);
+  color: var(--um-white);
+}
+.btn-secondary:hover, .btn-secondary:focus {
+  background-color: var(--um-dark-blue);
+  color: var(--um-white);
+  border: 2px solid var(--um-accent-blue);
+}
+
+/* Action Buttons */
+.btn-action, .btn-action:visited {
+  background-color: var(--um-maize);
+  color: var(--um-dark-blue);
+}
+.btn-action:hover, .btn-action:focus {
+  background-color: var(--um-action-hover);
+  color: var(--um-dark-blue);
+  border: 2px solid var(--um-action-hover);
+}
+
+/* Selected Button (example: active state) */
+button.selected, .btn.selected, .btn-primary.selected, .btn-secondary.selected {
+  color: var(--um-white);
+  background-color: var(--um-dark-blue);
+}
+
+/* -----------Grid Row Highlight----------- */
+tr.highlight, .row.highlight {
+  background-color: var(--um-medium-blue);
+  color: var(--um-white);
+}
+
+tr.highlight a, .row.highlight a, .highlight a {
+  color: var(--um-white);
+}
+
+tr.highlight a:hover, .row.highlight a:hover, .highlight a:hover,
+tr.highlight a:focus, .row.highlight a:focus, .highlight a:focus {
+  color: var(--um-maize);
+  background-color: transparent;
+}
+
+/* -----------Category Items----------- */
+/* Example selectors for category blocks */
+.category-icon {
+  color: var(--um-accent-blue);
+  font-size: 130%;
+}
+.category-description {
+  color: var(--um-dark-grey);
+}
+
+/* -----------Miscellaneous Link Colors----------- */
+/* Links in navigation or special sections */
+.toc a, .navbar a, .category a {
+  color: var(--um-accent-blue);
+}
+.toc a:hover, .navbar a:hover, .category a:hover {
+  color: var(--um-accent-blue);
+  border-bottom: 2px solid var(--um-maize);
+}
