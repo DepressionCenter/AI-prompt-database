@@ -8,6 +8,10 @@ This file is part of AI Prompt Database
 Copyright © 2023-2026 The Regents of the University of Michigan
 Licensed under the GNU Free Documentation License v1.3 or later.
 See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
+
+This file is based on the media pack skill from
+https://github.com/gabrielmongefranco/repo-template,
+Copyright © 2026 Gabriel Mongefranco, licensed under GPLv3+/FDLv1.3+.
 -->
 
 # Create media pack
