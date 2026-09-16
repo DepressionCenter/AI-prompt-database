@@ -1,3 +1,18 @@
+<!--
+This file is part of AI Prompt Database
+coding/efdc-coding-style-and-repo-template-skill.md
+Author(s): Gabriel Mongefranco.
+Created: 2026-07-25
+Last Modified: 2026-09-16
+Summary: Prompt that creates an AI coding agent skill for deploying repositories that follow the EFDC repository template and coding style.
+Notes: See README file for documentation and full license information.
+
+Copyright © 2026 The Regents of the University of Michigan
+
+Licensed under the GNU Free Documentation License v1.3 or later.
+See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
+
+-->
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
 

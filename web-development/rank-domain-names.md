@@ -1,3 +1,18 @@
+<!--
+This file is part of AI Prompt Database
+web-development/rank-domain-names.md
+Author(s): Gabriel Mongefranco.
+Created: 2024-06-10
+Last Modified: 2026-09-16
+Summary: Prompt that scores and ranks candidate domain names for international audiences.
+Notes: See README file for documentation and full license information.
+
+Copyright © 2024-2026 The Regents of the University of Michigan
+
+Licensed under the GNU Free Documentation License v1.3 or later.
+See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
+
+-->
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
 

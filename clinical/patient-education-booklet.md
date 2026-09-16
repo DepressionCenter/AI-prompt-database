@@ -1,3 +1,18 @@
+<!--
+This file is part of AI Prompt Database
+clinical/patient-education-booklet.md
+Author(s): Gabriel Mongefranco.
+Created: 2024-04-16
+Last Modified: 2026-09-16
+Summary: Prompt that generates a short multilingual patient education booklet with links to trusted medical sources.
+Notes: See README file for documentation and full license information.
+
+Copyright © 2024-2026 The Regents of the University of Michigan
+
+Licensed under the GNU Free Documentation License v1.3 or later.
+See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
+
+-->
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
 

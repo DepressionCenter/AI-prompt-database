@@ -1,3 +1,25 @@
+<!--
+This file is part of AI Prompt Database
+README.md
+Author(s): Gabriel Mongefranco.
+Created: 2024-04-15
+Last Modified: 2026-09-16
+Summary: Provides an overview of the AI Prompt Database repository, in Markdown format.
+Notes: See README file for documentation and full license information.
+
+Copyright © 2023-2026 The Regents of the University of Michigan
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along
+with this program. If not, see <https://www.gnu.org/licenses/>.
+
+-->
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
 # AI Prompt Database™
@@ -71,6 +93,7 @@ Browse a category, copy a prompt template, and adapt it to your task. Researcher
 
 ## Documentation
 * Each individual file has its own documentation and examples.
+* Repository guides, templates, and agent skills live in the [`/docs`](./docs) folder and the [skills index](SKILLS.md).
 * For other U-M Generative AI documentation, visit the [GenAI site](https://genai.umich.edu/) or the [Depression Center's knowledge base](https://michmed.org/efdc-kb).
 
 ## Additional Resources

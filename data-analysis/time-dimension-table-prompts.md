@@ -1,3 +1,18 @@
+<!--
+This file is part of AI Prompt Database
+data-analysis/time-dimension-table-prompts.md
+Author(s): Gabriel Mongefranco.
+Created: 2026-04-01
+Last Modified: 2026-09-16
+Summary: Combinable prompts that generate Calendar and TimeSlots dimension tables in SQL, JavaScript, Python, R, Power Query, PowerShell, Bash, or Lua.
+Notes: See README file for documentation and full license information.
+
+Copyright © 2026 The Regents of the University of Michigan
+
+Licensed under the GNU Free Documentation License v1.3 or later.
+See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
+
+-->
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
 

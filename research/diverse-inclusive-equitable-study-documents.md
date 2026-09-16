@@ -1,3 +1,18 @@
+<!--
+This file is part of AI Prompt Database
+research/diverse-inclusive-equitable-study-documents.md
+Author(s): Gabriel Mongefranco.
+Created: 2024-04-18
+Last Modified: 2026-09-16
+Summary: Prompt that suggests ways to make research study documents more diverse, equitable, and inclusive.
+Notes: See README file for documentation and full license information.
+
+Copyright © 2024-2026 The Regents of the University of Michigan
+
+Licensed under the GNU Free Documentation License v1.3 or later.
+See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
+
+-->
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
 
