@@ -15,8 +15,8 @@ cff-version: 1.2.0
 message: "If you find this repository, code or paper useful for your research, please cite it. AI Prompt Database is licensed under the GNU General Public License v3.0 or later. Copyright © 2023-2026 The Regents of the University of Michigan | Eisenberg Family Depression Center (https://depressioncenter.org)."
 type: software
 title: "AI Prompt Database"
-doi: "[10.5281/zenodo.15242741]" # Use your version-agnostic DOI here
-url: "https://github.com/DepressionCenter/AI-prompt-database" # project website or repository URL
+doi: "10.5281/zenodo.15242741"
+url: "https://github.com/DepressionCenter/AI-prompt-database"
 repository-code: "https://github.com/DepressionCenter/AI-prompt-database"
 license: "gpl-3.0-or-later"
 contact:
