@@ -397,10 +397,8 @@ GitHub Pages does not let a site set HTTP headers, so the layout carries a Conte
 | Leak of the GitHub credential. | Stored in Script Properties, scoped to one repository and one permission, App token valid for one hour, fallback token expires within a year, ruleset limits who can push to `main`. |
 | Path injection in the archive path. | The id is derived by an allowlist rule and the category is validated against the vocabulary before the path is built. |
 | Loss of the Google assets when a person leaves. | The Form, Sheet, and script belong to a departmental account. |
-| Flagged content sitting in Google. | The Form states that PHI must not be submitted. U-M Google is not approved for PHI, so the review how-to says to deny and delete such rows promptly. Sheet sharing is limited to maintainers. |
+| Flagged content sitting in Google. | The Form states that PHI must not be submitted. U-M Google is approved for sensitive data but not for PHI, so the review how-to says to deny and delete any row that contains PHI promptly. Sheet sharing is limited to maintainers. |
 | Unreviewed content in git history. | Only human-approved rows or auto-approved rows older than 14 days are committed. |
-
-Two decisions need institutional review and cannot be settled by code review: whether a public prompt collection that accepts U-M submissions needs a privacy notice, and whether the U-M Google environment is acceptable for the pending-review queue.
 
 ## Accessibility
 
@@ -429,7 +427,7 @@ Setup steps only the repository and Google account owner can perform: create or 
 
 Routine operations are documented in the review how-to: approve, deny, or edit a row; add a category, tool, task, or audience; run the publisher by hand; read the `Log` tab; rotate the credentials; and respond to a "Report this prompt" email.
 
-One cost item must be verified after the first push. GitHub's documentation says Pages builds in public repositories do not consume paid minutes, but the department has observed charges under the enterprise agreement. Check the organization's Actions usage report after the first weekly commit.
+GitHub Pages builds the site through its own Actions workflow on every push to `main`. This repository sits under the U-M enterprise license, so those minutes are billed even though the repository is public. The publisher therefore commits at most once a week and skips the commit when nothing changed. Record the minutes each weekly build uses on the compliance page so the cost stays visible.
 
 ## Out of scope
 

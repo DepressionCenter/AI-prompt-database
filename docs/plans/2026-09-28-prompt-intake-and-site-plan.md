@@ -1133,7 +1133,7 @@ test('applies vocabulary filters, ignoring blank ones', () => {
 - Create: `docs/architecture.md`, `docs/data-flow.md`, `docs/usage.md`, `docs/how-to/set-up-google-and-github.md`, `docs/how-to/review-a-submission.md`, `docs/how-to/add-a-vocabulary-value.md`, `docs/troubleshooting.md`, `docs/compliance.md`
 - Modify: `docs/README.md`, `docs/specs/2026-09-28-prompt-intake-and-site-design.md`
 
-- [ ] Write each page with the structure from the documentation skill. `architecture.md` and `data-flow.md` reuse the spec's diagram and tables, now describing built behavior, with the text description beside the diagram. `usage.md` covers browsing, searching, copying, subscribing to the feed, using `prompts.json`, and building the site locally on Windows and in a container. The review how-to covers approving, denying, editing, handling a report, running the publisher by hand, reading the `Log` tab, and rotating both credentials. `troubleshooting.md` starts with the failures met during Stages 3 to 6. `compliance.md` records the controls in place, the contrast ratios, the automated scan date and result, the manual accessibility pass, data retention in the Sheet, and the two items that need institutional review.
+- [ ] Write each page with the structure from the documentation skill. `architecture.md` and `data-flow.md` reuse the spec's diagram and tables, now describing built behavior, with the text description beside the diagram. `usage.md` covers browsing, searching, copying, subscribing to the feed, using `prompts.json`, and building the site locally on Windows and in a container. The review how-to covers approving, denying, editing, handling a report, running the publisher by hand, reading the `Log` tab, and rotating both credentials. `troubleshooting.md` starts with the failures met during Stages 3 to 6. `compliance.md` records the controls in place, the contrast ratios, the automated scan date and result, the manual accessibility pass, data retention in the Sheet, and the Actions minutes used by the weekly Pages build.
 - [ ] Update `docs/README.md` to list the new pages and to move the spec and plan under a "History" heading. Add a note at the top of the spec that says it is now implemented and points to `architecture.md`.
 - [ ] Commit: `Document the intake, review, publishing, and site`
 
@@ -1154,7 +1154,7 @@ test('applies vocabulary filters, ignoring blank ones', () => {
 - [ ] Deny the first entry. It disappears within ten minutes.
 - [ ] Wait for, or hand-run, the Monday digest and the Friday publisher. The approved entry becomes a static page, appears in `sitemap.xml`, `feed.xml`, and `prompts.json`, and leaves the live section. The denied entry never enters git.
 - [ ] Edit the approved entry's description in the Sheet and hand-run the publisher. The page updates in one commit.
-- [ ] Open the organization's Actions usage report and record whether the Pages build consumed billable minutes. Note the result in `docs/compliance.md` under costs.
+- [ ] Open the organization's Actions usage report and record the minutes the Pages build used for the weekly commit in `docs/compliance.md` under costs.
 - [ ] Temporarily set an invalid `GITHUB_APP_ID`, run the publisher, and confirm it falls back to the token, logs `fallback`, and emails the maintainer. Restore the value.
 - [ ] Run `npm test` and `npm run a11y` one final time and record the results.
 - [ ] Close GitHub issue 1 with a comment that links to the site, the design spec, and this plan.
