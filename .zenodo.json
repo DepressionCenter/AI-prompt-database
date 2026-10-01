@@ -1,11 +1,8 @@
 {
   "_license": "This file is part of AI Prompt Database. Copyright © 2023-2026 The Regents of the University of Michigan. This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.",
-  "title": "AI Prompt Database",
   "upload_type": "software",
   "access_right": "open",
-  "license": "GPL-3.0-or-later",
-  "publisher": "Eisenberg Family Depression Center, University of Michigan",
-  "notes": "Copyright © 2023-2026 The Regents of the University of Michigan | Eisenberg Family Depression Center (https://depressioncenter.org).",
+  "license": "gpl-3.0-or-later",
   "creators": [
     {
       "name": "Mongefranco, Gabriel",
@@ -13,39 +10,21 @@
       "orcid": "0000-0001-7289-200X"
     }
   ],
-  "contributors": [
+  "imprint_publisher": "Eisenberg Family Depression Center",
+  "copyright": "Copyright © 2023-2026 The Regents of the University of Michigan",
+  "additional_titles": [
     {
-      "name": "Eisenberg Family Depression Center",
-      "affiliation": "University of Michigan",
-      "type": "ResearchGroup"
-    },
-    {
-      "name": "Eisenberg Family Depression Center",
-      "affiliation": "University of Michigan",
-      "type": "HostingInstitution"
-    },
-    {
-      "name": "Eisenberg Family Depression Center",
-      "affiliation": "University of Michigan",
-      "type": "Producer"
-    }
-  ],
-  "communities": [
-    {
-      "identifier": "depressioncenter"
+      "title": "AI Prompt Database",
+      "type": { "id": "alternative-title" }
     }
   ],
   "custom": {
     "code:codeRepository": "https://github.com/DepressionCenter/AI-prompt-database",
-    "code:developmentStatus": {
-      "id": "active"
-    }
+    "code:developmentStatus": { "id": "active" }
   },
-  "related_identifiers": [
+  "communities": [
     {
-      "identifier": "https://github.com/DepressionCenter/AI-prompt-database",
-      "relation": "isSupplementTo",
-      "resource_type": "software"
+      "identifier": "depressioncenter"
     }
   ]
 }

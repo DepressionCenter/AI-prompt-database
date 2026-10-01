@@ -43,9 +43,11 @@ conflicts, follow the applicable higher-priority instructions and identify the c
 - [documentation](skills/documentation/SKILL.md): apply when adding or changing a page
   under `/docs`, or when a code change makes existing documentation wrong. Expands
   section 16.
-- [create-media-pack](skills/create-media-pack/SKILL.md): apply when asked for a
-  repository media pack, brand kit, or complete project visual identity, including
-  logos, banners, icons, and repository preview images.
+- [create-media-pack](skills/create-media-pack/SKILL.md): use when creating a
+  project branding or media pack, with three accessible options, approved exports,
+  a branding guide, and README integration. Adapted from
+  [create-media-pack](https://github.com/gabrielmongefranco/repo-template/blob/main/skills/create-media-pack/SKILL.md)
+  by Gabriel Mongefranco.
 
 Keep all project-specific preferences and workflows in `project-preferences`.
 `response-style`, `accessibility`, and `documentation` are reusable across projects and
